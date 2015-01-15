@@ -18,6 +18,7 @@ scripts in /tools/ are for pulling emoticons from steamcommunity.com and generat
 
 make_fonts.py is optional as the generated font-data is included in the
 repository.
+test_fonts.py is a python processing (.org) visualization of the font data.
 
 note: this does not create a complete emoticon data set, but the data set will
 be expanded as new emoticons are discovered in users steam inventorys.
