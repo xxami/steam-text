@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 # convert artwiz open source fonts to javascript file
 # as an array using integer arrays in place of binary
